@@ -1,0 +1,6 @@
+*.cm[io]
+*.o
+*.swp
+.depend
+api.ml
+json.ml
